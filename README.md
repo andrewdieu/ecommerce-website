@@ -16,6 +16,9 @@ Filter is an e-commerce website where you can list products with a custom descri
 If you would like to purchase a product, simply click on the listing and you can contact the seller.
 
 ## How? 🤔
-With the use of our MERN stack, you are able to take advantage of CRUD operations to create, edit, and remove product listings!
+With the use of our implemented MERN stack, you are able to do all of the below: <br>
+<ins>*MongoDB*</ins> →  The backend of our website, here we store registered users, along with products listed. <br>
+<ins>*React/Express*</ins> → Allows us to create a *beautiful* user experience. ✨ <br>
+<ins>*TypeScript*</ins> → Creates our website, along with our CRUD operations. <br> <br>
 
 *Created by Andrew Dieu*

@@ -16,6 +16,6 @@ Filter is an e-commerce website where you can list products with a custom descri
 If you would like to purchase a product, simply click on the listing and you can contact the seller.
 
 ## How? 🤔
-With the use of our **MERN** stack, you are able to take advantage of CRUD operations to create, edit, and remove product listings!
+With the use of our MERN stack, you are able to take advantage of CRUD operations to create, edit, and remove product listings!
 
 *Created by Andrew Dieu*

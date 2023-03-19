@@ -17,8 +17,8 @@ If you would like to purchase a product, simply click on the listing and you can
 
 ## How? 🤔
 With the use of our implemented MERN stack, you are able to do all of the below: <br>
-<ins>*MongoDB*</ins> →  The backend of our website, here we store registered users, along with products listed. <br>
 <ins>*React/Express*</ins> → Allows us to create a *beautiful* user experience. ✨ <br>
-<ins>*TypeScript*</ins> → Creates our website, along with our CRUD operations. <br> <br>
+<ins>*TypeScript*</ins> → Creates our website, along with our CRUD operations. <br>
+<ins>*MongoDB*</ins> →  The backend of our website, here we store registered users, along with products listed. <br> <br>
 
 *Created by Andrew Dieu*
